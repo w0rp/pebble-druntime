@@ -1,0 +1,9 @@
+{
+    "name": "pebble-druntime",
+    "targetType": "sourceLibrary",
+    "description": "A D runtime suitable for Pebble watches.",
+    "authors": ["w0rp"],
+    "homepage": "https://github.com/w0rp/pebble-druntime",
+    "license": "BSL-1.0",
+    "copyright": "Copyright © 2015, w0rp"
+}
